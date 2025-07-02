@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+
 const mockData = [10, 20, 30, 25, 40, 50, 60, 55, 70, 80, 90, 100];
 
 export default function Chart() {
