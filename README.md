@@ -1,3 +1,7 @@
+![Screenshot 2025-06-27 225715](https://github.com/user-attachments/assets/5e5915d4-0e7a-4b4d-8420-d73c65c2e147)
+![Screenshot 2025-06-27 225703](https://github.com/user-attachments/assets/700e90d0-0d8b-4af4-93de-8100e07eba12)
+![Screenshot 2025-06-27 225651](https://github.com/user-attachments/assets/f8006043-f992-47a9-98a6-1d381a8e14f9)
+![Screenshot 2025-06-27 225638](https://github.com/user-attachments/assets/66e1908c-9216-4643-9d43-ba9062fb82ae)
 # Custom Discord Server Admin Dashboard
 
 ## Overview
